@@ -1,0 +1,88 @@
+﻿William Murphy
+Instructor
+99748
+180789
+Michael Loceff
+Instructor
+99748
+144740
+Elaine Haight
+Instructor
+99975
+130809
+Ladawn Meade
+Part-Time Faculty Instruct
+70646
+97262
+Anand Venkataraman
+Part-Time Faculty Instruct
+26750
+52952
+Jesse Cecil
+Part-Time Faculty Instruct
+30759
+49732
+Rula Khayrallah
+Part-Time Faculty Instruct
+35819
+46862
+David Harden
+Part-Time Faculty Instruct
+19804
+38966
+Bita Mazloom
+Part-Time Faculty Instruct
+11431
+36983
+Viet Trinh
+Part-Time Faculty Instruct
+21617
+21617
+Hadeel Ammari
+Part-Time Faculty Instruct
+20468
+20468
+Thomas Riordan
+Part-Time Faculty Instruct
+15351
+15351
+Rahul Agarwal
+Part-Time Faculty Instruct
+5089
+5089
+A
+Instructor
+99748
+180789
+B
+Instructor
+99748
+180789
+C
+Instructor
+99748
+180789
+D
+Instructor
+99748
+180789
+E
+Instructor
+99748
+180789
+F
+Instructor
+99748
+180789
+G
+Instructor
+99748
+180789
+H
+Instructor
+99748
+180789
+I
+Instructor
+99748
+180789
