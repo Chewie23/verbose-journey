@@ -1,0 +1,36 @@
+As far as I can tell, we got several moving parts interacting with each other.
+1) Reading a file and grabbing the appropriate info
+2) Serialize/Deserialize
+3) Input/Output operator overload
+4) Related to 4, but printing out the proper format
+
+More will come to me, I'm sure, but that's the gist of it all. So let's tackle each part separately and then combine later on.
+
+1) File reading and reading
+
+So we got a file like so:
+Line 1
+Line 2
+Line 3
+Line 4
+LineOne
+LineTwo
+LineThree
+LineFour
+
+And so on.
+
+What is a good way to organize and grab the info we need from this?
+To try:
+- Newlines
+- Every four lines, grab info?
+
+Basically, we need to do:
+Professor1(Line 1, Line 2, Line 3, Line 4)
+Professor2(LineOne, LineTwo, LineThree, LineFour)
+
+The best I can come up with is a for loop to grab four line chunks and a nested for loop to process and divy up the lines into that format
+
+The good part is that we have a premade class that contains a constructor that takes those parameters. So really, we just have to feed the lines
+into the appropriate spot.
+
